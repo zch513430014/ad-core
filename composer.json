@@ -1,0 +1,18 @@
+{
+    "name": "zuochenghe/ad-core",
+    "description": "巨量引擎广告拉取",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zuochenghe",
+            "email": "513430014@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {"Ad\\": "src/Ad"}
+    }
+}
